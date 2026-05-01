@@ -1,9 +1,4 @@
 Motion Tracking Data Collection
-Institute of Pervasive Computing - UE Pervasive Computing
-Student Data Submission
-
-Student Name: Mochamad Bukhori Zainun
-Student ID:   k12438440
 
 -------------------------------------------------------
 RECORDING SESSION DETAILS
