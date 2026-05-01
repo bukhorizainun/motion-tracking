@@ -81,7 +81,6 @@ Key observations:
 
 ## 📈 4. Experimental Outputs
 
-*(Add images after uploading PNG versions)*
 
 ```markdown
 ![Confusion Matrix](results/figures/confusion_matrix.png)
